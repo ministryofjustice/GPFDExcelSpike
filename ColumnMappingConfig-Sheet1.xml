@@ -1,0 +1,6 @@
+<xml>
+	<field sourceName="DATE_AUTHORISED_CIS" mappedName="DATE_AUTHORISED_CIS" dateFormat="dd-MMM-yy"/>
+	<field sourceName="THE_SYSTEM" mappedName="THE_SYSTEM"/>
+	<field sourceName="CIS_VALUE" mappedName="CIS_VALUE" numberFormat="#####.##"/>
+	<field sourceName="CCMS_VALUE" mappedName="CCMS_VALUE" numberFormat="#####.##"/>
+</xml>

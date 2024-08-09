@@ -1,0 +1,8 @@
+<xml>
+	<field sourceName="VENDOR_SITE_CODE" mappedName="VENDOR_SITE_CODE"/>
+	<field sourceName="VENDOR_SITE_NAME" mappedName="VENDOR_SITE_NAME"/>
+	<field sourceName="PAY_GROUP_LOOKUP_CODE" mappedName="PAY_GROUP_LOOKUP_CODE"/>
+	<field sourceName="FIRST_GL_DATE" mappedName="FIRST_GL_DATE" dateFormat="dd-MMM-yy"/>
+	<field sourceName="LATEST_GL_DATE" mappedName="LATEST_GL_DATE" dateFormat="dd-MMM-yy"/>
+	<field sourceName="TOTAL" mappedName="TOTAL" numberFormat="#####.##"/>				
+</xml>

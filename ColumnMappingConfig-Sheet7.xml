@@ -1,0 +1,6 @@
+<xml>
+	<field sourceName="Target sheet name" mappedName="Target sheet name"/>
+	<field sourceName="Source folder" mappedName="Source folder"/>
+	<field sourceName="Source file name" mappedName="Source file name"/>
+	<field sourceName="Sheet number" mappedName="Sheet number" numberFormat="#######"/>				
+</xml>

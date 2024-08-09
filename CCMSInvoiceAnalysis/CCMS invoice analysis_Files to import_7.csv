@@ -1,0 +1,7 @@
+Target sheet name,Source folder,Source file name,Sheet number
+CCMS Payment value(defined),https://justiceuk.sharepoint.com/:x:/r/sites/FinanceSysReference/Shared%20Documents/General/UsingTextFilesExample/,V_CIS_TO_CCMS_INVOICE_DEFINED_PAYMENT_GROUPS_DATA_VIEW.csv,1
+CIS to CCMS import exceptions,https://justiceuk.sharepoint.com/:x:/r/sites/FinanceSysReference/Shared%20Documents/General/UsingTextFilesExample/,V_CIS_TO_CCMS_INVOICE_EXCEPTIONS_DATA_VIEW.csv,1
+CCMS Held payments,https://justiceuk.sharepoint.com/:x:/r/sites/FinanceSysReference/Shared%20Documents/General/UsingTextFilesExample/,V_CIS_TO_CCMS_INVOICE_HELD_PAYMENTS_DATA_VIEW.csv,1
+CIS to CCMS import analysis,https://justiceuk.sharepoint.com/:x:/r/sites/FinanceSysReference/Shared%20Documents/General/UsingTextFilesExample/,V_CIS_TO_CCMS_INVOICE_SUMMARY_DATA_VIEW.csv,1
+CCMS AP Debtors,https://justiceuk.sharepoint.com/:x:/r/sites/FinanceSysReference/Shared%20Documents/General/UsingTextFilesExample/,V_CIS_TO_CCMS_INVOICE_CCMS_AP_DEBTS_DATA_VIEW.csv,1
+CCMS Payment value(not defined),https://justiceuk.sharepoint.com/:x:/r/sites/FinanceSysReference/Shared%20Documents/General/UsingTextFilesExample/,V_CIS_TO_CCMS_INVOICE_NOT_DEFINED_PAYMENT_GROUPS_DATA_VIEW.csv,1

@@ -1,0 +1,7 @@
+<xml>
+	<field sourceName="VENDOR_SITE_CODE" mappedName="VENDOR_SITE_CODE"/>
+	<field sourceName="VENDOR_SITE_NAME" mappedName="VENDOR_SITE_NAME"/>
+	<field sourceName="FIRST_GL_DATE" mappedName="FIRST_GL_DATE" dateFormat="dd-MMM-yy"/>
+	<field sourceName="LATEST_GL_DATE" mappedName="LATEST_GL_DATE" dateFormat="dd-MMM-yy"/>
+	<field sourceName="TOTAL_INC_MEDIATION" mappedName="TOTAL_INC_MEDIATION" numberFormat="#####.##"/>				
+</xml>

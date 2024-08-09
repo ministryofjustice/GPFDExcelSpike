@@ -1,0 +1,14 @@
+<xml>
+	<field sourceName="ACC_CODE" mappedName="ACC_CODE"/>
+	<field sourceName="ACCO_HELD_BY_TYPE" mappedName="ACCO_HELD_BY_TYPE"/>
+	<field sourceName="DTYP_DOC_TYPE_ID" mappedName="DTYP_DOC_TYPE_ID"/>
+	<field sourceName="THE_SYSTEM" mappedName="THE_SYSTEM"/>
+	<field sourceName="DATE_CREATED_CIS" mappedName="DATE_CREATED_CIS" dateFormat="dd-MMM-yy"/>
+	<field sourceName="DATE_AUTHORISED_CIS" mappedName="DATE_AUTHORISED_CIS" dateFormat="dd-MMM-yy"/>
+	<field sourceName="TRANS_INT_ID" mappedName="TRANS_INT_ID" numberFormat="#######"/>
+	<field sourceName="VOLUME" mappedName="VOLUME" numberFormat="#######"/>
+	<field sourceName="VALUE" mappedName="VALUE" numberFormat="#####.##"/>
+	<field sourceName="INVOICE_ID" mappedName="INVOICE_ID" numberFormat="#######"/>
+	<field sourceName="GL_DATE" mappedName="GL_DATE" dateFormat="dd-MMM-yy"/>
+	<field sourceName="INVOICE_AMOUNT" mappedName="INVOICE_AMOUNT" numberFormat="#####.##"/>					
+</xml>
